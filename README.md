@@ -52,11 +52,6 @@ After completing this lab, you will be able to:
 
 ---
 
-## 📷 Demo / Output  
-*(Include screenshots or a gif of your Todo List app running here)*  
-
----
-
 ## 🏁 Conclusion  
 This lab provides hands-on experience with **React state management** and helps in understanding the basics of building **interactive, dynamic web applications**.  
 
